@@ -34,11 +34,12 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/dictionaries
-.idea/libraries
+platforms/android/.idea/
+platforms/android/.idea/workspace.xml
+platforms/android/.idea/tasks.xml
+platforms/android/.idea/gradle.xml
+platforms/android/.idea/dictionaries
+platforms/android/.idea/libraries
 
 # Keystore files
 *.jks
@@ -55,3 +56,5 @@ freeline/
 freeline_project_description.json
 /node_modules
 /dist
+platforms/android/app/src/main/assets/dist/
+temp/
