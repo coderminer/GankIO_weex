@@ -6,13 +6,18 @@
              android:background="#0099cc"
              tools:context="com.alibaba.gankio.SplashActivity">
 
+
+    <ImageView
+            android:id="@+id/bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
     <TextView android:id="@+id/fullscreen_content"
-              android:layout_width="match_parent"
-              android:layout_height="match_parent"
-              android:keepScreenOn="true"
-              android:textColor="#33b5e5"
-              android:textStyle="bold"
-              android:textSize="50sp"
-              android:gravity="center"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="#fff"
+              android:layout_marginTop="20dp"
+              android:layout_marginRight="20dp"
+              android:layout_gravity="top|right"
               android:text="@string/dummy_content"/>
 </FrameLayout>
