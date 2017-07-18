@@ -1,3 +1,18 @@
+#### 写在前面
+
+编译，请在当前目录下执行  
+
+```
+cnpm i --save 或 npm i --save
+```
+这样不会影响本来已存在的weexpack环境  
+
+使用命令运行  
+
+```
+node node_modules\weexpack\bin\weexpack run android
+
+```
 
 #### 概述  
 
