@@ -115,10 +115,10 @@ export default {
         align-items:center;
     }
     .img-wrapper{
-        width: 350;
-        height: 350;
+        width: 345;
+        height: 345;
         border-radius: 4;
-        margin-left:25;
+        margin-left:20;
     }
     .refresh-view {
         height: 100;
