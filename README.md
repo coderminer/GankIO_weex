@@ -14,6 +14,9 @@ node node_modules\weexpack\bin\weexpack run android
 
 ```
 
+编译好的apk文件，请下载体验 [APK](https://pan.baidu.com/s/1jIcIdAA)
+
+
 #### 概述  
 
 前一段使用.we的方式做了一个项目，一直没有升级到Vue，感觉升级的过程中的坑会有很多暂没有升级  
